@@ -1,5 +1,5 @@
 blueprint:
-  source_url: ""
+  source_url: "https://github.com/edouardkleinhans/homeassistant/blob/main/blueprints/reset-speaker-volume-after-music-stops.yaml"
   name: Reset speaker volume after music stops
   description: After speaker has been turned off for x minutes it will has its volume reset to x
   domain: automation
