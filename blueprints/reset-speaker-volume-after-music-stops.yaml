@@ -3,6 +3,7 @@ blueprint:
   name: Reset speaker volume after music stops
   description: After speaker has been turned off for x minutes it will has its volume reset to x
   domain: automation
+  author: ekleinhans
   input:
     media_player:
       name: Media Players
